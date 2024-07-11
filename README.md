@@ -1,11 +1,11 @@
 # Hi there, I'm Om! 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a Junior Computer Vision Engineer at [Quantic Tech Analysis Private Limited](https://www.quantictech.com)
+- 🔭 I’m currently working as a Junior Computer Vision Engineer at [Quantic Tech Analysis Private Limited](https://www.quantictech.ai)
 - 🌱 I’m currently learning advanced computer vision techniques and robotics
 - 👯 I’m looking to collaborate on open-source computer vision projects
 - 💬 Ask me about robotics, computer vision, and electronics
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [omrode.work@gmail.com](mailto:omrode.work@gmail.com)
 - ⚡ Fun fact: I love making circuit boards and working on autonomous drones
 
 ## 🛠 Skills
@@ -24,3 +24,7 @@
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=omrode1&theme=onedark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omrode1&theme=dark)
+
+
