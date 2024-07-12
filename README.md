@@ -5,7 +5,7 @@
 # Hi there! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=435&lines=Junior+Computer+Vision+Engineer;I+make+drones+fly+on+their+own)](https://git.io/typing-svg)
 
-<img src="https://github.com/omrode1/omrode1/blob/main/assets/levi-rizz.gif" width="200" align="right"/>
+<img src="https://github.com/omrode1/omrode1/blob/main/assets/levi-rizz.gif" width="100" align="right"/>
 
 ## About Me
 - 🚀 Junior Computer Vision Engineer at [Quantic Tech Analysis](https://www.quantictech.ai)
