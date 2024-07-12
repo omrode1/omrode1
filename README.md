@@ -6,6 +6,7 @@
   </a>
 </p>
 
+
 ## 🚀 About Me
 - 🔭 I’m currently working as a Junior Computer Vision Engineer at [Quantic Tech Analysis Private Limited](https://www.quantictech.ai)
 - 🌱 I’m currently learning advanced computer vision techniques and robotics
@@ -28,7 +29,19 @@
 ## 📈 GitHub Stats
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omrode1&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=omrode1&theme=onedark)
-
+## 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omrode1&theme=dark)
+
+## 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrode1&layout=compact&theme=radical)
+
+## 📈 Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=omrode1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+## 📈 Wakatime Stats
+![Om's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omrode1&layout=compact&theme=radical)
+
+## 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=omrode1&color=blue)
+
+
