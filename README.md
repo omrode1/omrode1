@@ -1,7 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=omrode1&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/omrode1?style=social)
 
-<div align="center">
+
+<div align="right">
   <img src="/omrode1/assets/levi-rizz.gif" width="200"/>
 </div>
 
