@@ -8,7 +8,7 @@
 ## About Me
 <table>
   <tr>
-    <td>
+    <td style="vertical-align:top;">
       - 🚀 Junior Computer Vision Engineer at <a href="https://www.quantictech.ai">Quantic Tech Analysis</a><br>
       - 📚 Learning advanced computer vision and robotics<br>
       - 🤝 Open to collaborating on computer vision projects<br>
@@ -16,8 +16,8 @@
       - 📧 Reach me: <a href="mailto:omrode.work@gmail.com">omrode.work@gmail.com</a><br>
       - 🎨 Fun fact: I love making circuit boards and autonomous drones
     </td>
-    <td>
-      <img src="https://github.com/omrode1/omrode1/blob/main/assets/levi-rizz.gif" width="100"/>
+    <td style="vertical-align:top;">
+      <img src="https://github.com/omrode1/omrode1/blob/main/assets/levi-rizz.gif" width="150"/>
     </td>
   </tr>
 </table>
@@ -25,14 +25,14 @@
 ## Skills
 <table>
   <tr>
-    <td>
+    <td style="vertical-align:top;">
       - 💻 **Languages**: Python, C++, JavaScript<br>
       - 🧰 **Frameworks**: OpenCV, TensorFlow, PyTorch<br>
       - 🛠️ **Tools**: Git, Docker, ROS<br>
       - 🔧 **Other Skills**: Electronics Design, Drone Development, Team Management
     </td>
-    <td>
-      <img src="https://github.com/omrode1/omrode1/blob/e4b0a06cda56e1a2b3054010fd4bf068af0fb975/assets/attack-on-titan-funny.gif" width="100"/>
+    <td style="vertical-align:top;">
+      <img src="https://github.com/omrode1/omrode1/blob/e4b0a06cda56e1a2b3054010fd4bf068af0fb975/assets/attack-on-titan-funny.gif" width="150"/>
     </td>
   </tr>
 </table>
