@@ -1,4 +1,10 @@
-# Hi there, I'm Om! 👋
+# Hi there! 👋
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=I'm+Om%2C;I+make+Drones+Fly+on+their+own" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a Junior Computer Vision Engineer at [Quantic Tech Analysis Private Limited](https://www.quantictech.ai)
