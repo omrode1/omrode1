@@ -1,10 +1,11 @@
 # Hi there! 👋
 
-<p align="center">
-  <a href="https://github.com/omrode1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=I'm+Om%2C;I+make+Drones+Fly+on+their+own" alt="Typing SVG" />
-  </a>
-</p>
+## 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=omrode1&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/omrode1?style=social)
+
+
 
 
 ## 🚀 About Me
@@ -35,13 +36,5 @@
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrode1&layout=compact&theme=radical)
 
-## 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=omrode1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-## 📈 Wakatime Stats
-![Om's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omrode1&layout=compact&theme=radical)
-
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=omrode1&color=blue)
 
 
