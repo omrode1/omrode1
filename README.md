@@ -1,8 +1,8 @@
 # Hi there! 👋
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=I'm+Om%2C;I+make+Drones+Fly+on+their+own" alt="Typing SVG" />
+  <a href="https://github.com/omrode1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=I'm+Om%2C;I+make+Drones+Fly+on+their+own" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,5 +32,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=omrode1&theme=onedark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omrode1&theme=dark)
-
-
