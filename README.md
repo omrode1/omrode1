@@ -9,6 +9,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=435&lines=Junior+Computer+Vision+Engineer;I+make+drones+fly+on+their+own)](https://git.io/typing-svg)
 
+
+<div align="right">
+  <img src="https://github.com/omrode1/omrode1/blob/main/assets/levi-rizz.gif" width="200"/>
+</div>
+
 ## About Me
 - 🚀 Junior Computer Vision Engineer at [Quantic Tech Analysis](https://www.quantictech.ai)
 - 📚 Learning advanced computer vision and robotics
