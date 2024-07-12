@@ -10,6 +10,7 @@
   <tr>
     <td style="vertical-align:top;">
       - 🚀 Junior Computer Vision Engineer at <a href="https://www.quantictech.ai">Quantic Tech Analysis</a><br>
+      - 🏎️ Ex - Formula Student at <a href = "https://www.formulaashwariders.in"> Formula AshwaRiders</a><br>
       - 📚 Learning advanced computer vision and robotics<br>
       - 🤝 Open to collaborating on computer vision projects<br>
       - 💬 Ask me about robotics, computer vision, and electronics<br>
