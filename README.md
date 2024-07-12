@@ -15,7 +15,7 @@
 - 📧 Reach me: [omrode.work@gmail.com](mailto:omrode.work@gmail.com)
 - 🎨 Fun fact: I love making circuit boards and autonomous drones
 
-<img src = "https://github.com/omrode1/omrode1/blob/e4b0a06cda56e1a2b3054010fd4bf068af0fb975/assets/attack-on-titan-funny.gif", width= "100" align="right"/>
+<img src = "https://github.com/omrode1/omrode1/blob/e4b0a06cda56e1a2b3054010fd4bf068af0fb975/assets/attack-on-titan-funny.gif" width= "100" align="right"/>
 
 ## Skills
 - 💻 **Languages**: Python, C++, JavaScript
