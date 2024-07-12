@@ -1,6 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=omrode1&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/omrode1?style=social)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="200"/>
+</div>
+
 # Hi there! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&random=false&width=435&lines=Junior+Computer+Engineer;I+make+drones+fly+on+their+own)](https://git.io/typing-svg)
