@@ -1,12 +1,6 @@
-# Hi there! 👋
-
-## 📈 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=omrode1&color=blue)
-
 ![GitHub followers](https://img.shields.io/github/followers/omrode1?style=social)
-
-
-
+# Hi there! 👋
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a Junior Computer Vision Engineer at [Quantic Tech Analysis Private Limited](https://www.quantictech.ai)
