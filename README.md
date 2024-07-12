@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td style="vertical-align:top;">
-      - 💻 **Languages**: Python, C++, JavaScript<br>
-      - 🧰 **Frameworks**: OpenCV, TensorFlow, PyTorch<br>
-      - 🛠️ **Tools**: Git, Docker, ROS<br>
-      - 🔧 **Other Skills**: Electronics Design, Drone Development, Team Management
+      - 💻 Languages: Python, C++, JavaScript<br>
+      - 🧰 Frameworks: OpenCV, TensorFlow, PyTorch<br>
+      - 🛠️ Tools: Git, Docker, ROS<br>
+      - 🔧 Other Skills: Electronics Design, Drone Development, Team Management
     </td>
     <td style="vertical-align:top;">
       <img src="https://github.com/omrode1/omrode1/blob/e4b0a06cda56e1a2b3054010fd4bf068af0fb975/assets/attack-on-titan-funny.gif" width="150"/>
