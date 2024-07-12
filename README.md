@@ -1,14 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=omrode1&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/omrode1?style=social)
-
-<div align="right">
-  <img src="https://github.com/omrode1/omrode1/blob/main/assets/levi-rizz.gif" width="200"/>
-</div>
+![GitHub User's stars](https://img.shields.io/github/stars/omrode1?style=social)
 
 # Hi there! 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=435&lines=Junior+Computer+Vision+Engineer;I+make+drones+fly+on+their+own)](https://git.io/typing-svg)
-
+<div align = "left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=435&lines=Junior+Computer+Vision+Engineer;I+make+drones+fly+on+their+own)](https://git.io/typing-svg)
+</div>
 
 <div align="right">
   <img src="https://github.com/omrode1/omrode1/blob/main/assets/levi-rizz.gif" width="200"/>
