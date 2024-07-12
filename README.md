@@ -2,6 +2,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/omrode1?style=social)
 # Hi there! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Working+Junior+Computer+Engineer;I+make+drones+fly+on+their+own)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 - 🔭 I’m currently working as a Junior Computer Vision Engineer at [Quantic Tech Analysis Private Limited](https://www.quantictech.ai)
 - 🌱 I’m currently learning advanced computer vision techniques and robotics
