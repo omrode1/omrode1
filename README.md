@@ -4,7 +4,7 @@
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/omrode1)
 
 # Hi there! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=435&lines=Junior+Computer+Vision+Engineer;I+make+drones+fly+on+their+own)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=435&lines=Junior+Computer+Vision+Engineer;)](https://git.io/typing-svg)
 
 ## About Me
 <table>
